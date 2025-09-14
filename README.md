@@ -1,0 +1,1 @@
+This is my [r-universe](https://docs.r-universe.dev/) package registry.
