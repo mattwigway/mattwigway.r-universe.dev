@@ -2,6 +2,9 @@
     {
         "package": "MyFirstFourStepModel",
         "url": "https://github.com/mattwigway/MyFirstFourStepModel"
-
+    },
+    {
+        "package": "gtfsrealtime",
+        "url": "https://github.com/mattwigway/gtfsrealtime-r"
     }
 ]
